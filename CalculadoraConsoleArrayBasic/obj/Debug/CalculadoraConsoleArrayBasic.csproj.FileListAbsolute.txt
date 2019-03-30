@@ -1,0 +1,5 @@
+C:\Projects\CalculadoraConsoleArrayBasic\CalculadoraConsoleArrayBasic\bin\Debug\CalculadoraConsoleArrayBasic.exe.config
+C:\Projects\CalculadoraConsoleArrayBasic\CalculadoraConsoleArrayBasic\bin\Debug\CalculadoraConsoleArrayBasic.exe
+C:\Projects\CalculadoraConsoleArrayBasic\CalculadoraConsoleArrayBasic\bin\Debug\CalculadoraConsoleArrayBasic.pdb
+C:\Projects\CalculadoraConsoleArrayBasic\CalculadoraConsoleArrayBasic\obj\Debug\CalculadoraConsoleArrayBasic.exe
+C:\Projects\CalculadoraConsoleArrayBasic\CalculadoraConsoleArrayBasic\obj\Debug\CalculadoraConsoleArrayBasic.pdb
